@@ -1,4 +1,4 @@
-# first-website-project
+# gaming-cafe
 Project I did for a school assignment. I made a very simple site with five pictures, a button and some text. When clicking the button the color of the website will 
 change and some text will be revealed. I got the idea for the site when i saw street art of a little girl standing on top of a skull which reminded of the qoute:
 "A generation which ignores history has no past-and no future". I included this on the brighter page but made my own qoute which made it easier to play 
